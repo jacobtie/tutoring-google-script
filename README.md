@@ -20,6 +20,7 @@ Download node.js
 Run `npm install` in the cloned directory  
 Run `npx clasp login`  
 Pick your school account  
+Click Allow  
 Run `npx clasp create`  
 Pick Standalone  
 It should fail, follow the directions, go to the link printed out, MAKE SURE you are in the right account, enable API  
