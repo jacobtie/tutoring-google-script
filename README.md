@@ -27,6 +27,7 @@ It should fail, follow the directions, go to the link printed out, MAKE SURE you
 Run `npx clasp create`  
 Pick Standalone  
 Run `npx clasp push`  
+If asked to changed the manifest file, say yes  
 Go to app scripts dashboard - My Projects  
 Open your project code  
 Click Resources > Advanced Google services..  
